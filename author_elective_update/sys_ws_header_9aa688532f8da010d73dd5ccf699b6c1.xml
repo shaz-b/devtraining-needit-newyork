@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_header">
+    <sys_ws_header action="DELETE">
+        <example_value>fred.luddy@example.com</example_value>
+        <name>From</name>
+        <required>false</required>
+        <short_description>Email address of the user making the request</short_description>
+        <sys_class_name>sys_ws_header</sys_class_name>
+        <sys_created_by>shiraz.bhojani</sys_created_by>
+        <sys_created_on>2020-12-17 23:13:55</sys_created_on>
+        <sys_id>9aa688532f8da010d73dd5ccf699b6c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>From</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ws_header_9aa688532f8da010d73dd5ccf699b6c1</sys_update_name>
+        <sys_updated_by>shiraz.bhojani</sys_updated_by>
+        <sys_updated_on>2020-12-17 23:13:55</sys_updated_on>
+        <web_service_definition display_value="NeedIt Web Service">e61600132f8da010d73dd5ccf699b6a3</web_service_definition>
+    </sys_ws_header>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>517490efdb935b044f035d00cf9619e6</instance_id>
+        <instance_name>dev66056</instance_name>
+        <name>sys_ws_header_9aa688532f8da010d73dd5ccf699b6c1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_header"><sys_ws_header action="INSERT_OR_UPDATE"><example_value>fred.luddy@example.com</example_value><name>From</name><required>false</required><short_description>Email address of the user making the request</short_description><sys_class_name>sys_ws_header</sys_class_name><sys_created_by>shiraz.bhojani</sys_created_by><sys_created_on>2020-12-17 23:13:55</sys_created_on><sys_id>9aa688532f8da010d73dd5ccf699b6c1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>From</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ws_header_9aa688532f8da010d73dd5ccf699b6c1</sys_update_name><sys_updated_by>shiraz.bhojani</sys_updated_by><sys_updated_on>2020-12-17 23:13:55</sys_updated_on><web_service_definition display_value="NeedIt Web Service">e61600132f8da010d73dd5ccf699b6a3</web_service_definition></sys_ws_header></record_update>]]></payload>
+        <payload_hash>-1170963725</payload_hash>
+        <record_name>From</record_name>
+        <reverted_from/>
+        <source>6dd5485f2f4da010d73dd5ccf699b63f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>shiraz.bhojani</sys_created_by>
+        <sys_created_on>2020-12-17 23:13:55</sys_created_on>
+        <sys_id>cde64c532f8da010d73dd5ccf699b63b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17672fb38240000001</sys_recorded_at>
+        <sys_updated_by>shiraz.bhojani</sys_updated_by>
+        <sys_updated_on>2020-12-17 23:13:55</sys_updated_on>
+        <type>Scripted REST Header</type>
+        <update_guid>c5e64c533c8da0105036d2024e28c73b</update_guid>
+        <update_guid_history>c5e64c533c8da0105036d2024e28c73b:-1170963725</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>shiraz.bhojani</sys_created_by>
+        <sys_created_on>2020-12-17 23:30:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_ws_header">sys_ws_header</sys_db_object>
+        <sys_id>78e0be3bfb9c4ec0854b40e68da04a24</sys_id>
+        <sys_metadata>9aa688532f8da010d73dd5ccf699b6c1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>From</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ws_header_9aa688532f8da010d73dd5ccf699b6c1</sys_update_name>
+        <sys_update_version display_value="sys_ws_header_9aa688532f8da010d73dd5ccf699b6c1">cde64c532f8da010d73dd5ccf699b63b</sys_update_version>
+        <sys_updated_by>shiraz.bhojani</sys_updated_by>
+        <sys_updated_on>2020-12-17 23:30:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
